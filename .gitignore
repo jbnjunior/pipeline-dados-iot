@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+data/*.csv
+!data/.gitkeep
+screenshots/
+!screenshots/
+screenshots/*
+!screenshots/.gitkeep
+!screenshots/*.png
